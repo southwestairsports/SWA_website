@@ -1,0 +1,21 @@
+vti_encoding:SR|utf8-nl
+vti_author:SR|LATE6420\\had
+vti_modifiedby:SR|LATE6420\\had
+vti_timelastmodified:TR|19 May 2016 04:10:57 -0000
+vti_timecreated:TR|01 Jan 2016 23:15:10 -0000
+vti_title:SR|SIV clinics and warning
+vti_extenderversion:SR|12.0.0.0
+vti_nexttolasttimemodified:TR|19 May 2016 04:10:41 -0000
+vti_syncofs_03bfe3c.netsolhost.com\:21/%2fwww:TW|29 Apr 2016 02:24:00 -0000
+vti_syncwith_03bfe3c.netsolhost.com\:21/%2fwww:TX|27 Apr 2016 16:16:03 -0000
+vti_syncwith_192.185.10.191\:21/httpdocs/swa:TX|27 Apr 2016 16:16:03 -0000
+vti_syncofs_192.185.10.191\:21/httpdocs/swa:TW|28 Apr 2016 14:15:00 -0000
+vti_syncwith_localhost\\\\\\xps8500\\had_2\\documents\\my web sites\\swa///xps8500/had_2/documents/my web sites/swa:TR|12 Mar 2016 16:34:28 -0000
+vti_syncwith_localhost\\c\:\\users\\had\\my web sites\\backups\\swa2/c\:/users/had/my web sites/backups/swa2:TR|12 Mar 2016 16:34:28 -0000
+vti_syncwith_localhost\\\\\\insp6400\\my web sites\\swa///insp6400/my web sites/swa:TR|27 Apr 2016 16:17:11 -0000
+vti_syncwith_localhost\\f\:\\swa/f\:/swa:TX|27 Apr 2016 16:16:03 -0000
+vti_syncofs_localhost\\f\:\\swa/f\:/swa:TW|27 Apr 2016 16:28:24 -0000
+vti_backlinkinfo:VX|
+vti_cacheddtm:TX|19 May 2016 04:10:57 -0000
+vti_filesize:IR|8528
+vti_donotpublish:BW|true

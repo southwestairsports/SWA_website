@@ -1,0 +1,19 @@
+vti_encoding:SR|utf8-nl
+vti_author:SR|INSP6400\\had
+vti_modifiedby:SR|LATE6420\\had
+vti_timelastmodified:TW|26 Jun 2015 15:23:00 -0000
+vti_timecreated:TR|13 Feb 2015 14:33:29 -0000
+vti_extenderversion:SR|12.0.0.0
+vti_backlinkinfo:VX|
+vti_syncwith_03bfe3c.netsolhost.com\:21/www/alpha:TX|13 Feb 2015 14:33:29 -0000
+vti_syncofs_03bfe3c.netsolhost.com\:21/www/alpha:TW|13 Feb 2015 14:43:00 -0000
+vti_syncwith_localhost\\j\:\\temp\\website-backups\\swa\\alpha/j\:/temp/website-backups/swa/alpha:TX|13 Feb 2015 14:33:29 -0000
+vti_syncofs_localhost\\j\:\\temp\\website-backups\\swa\\alpha/j\:/temp/website-backups/swa/alpha:TW|13 Feb 2015 16:38:16 -0000
+vti_syncofs_03bfe3c.netsolhost.com\:21/%2fwww/alpha:TW|15 Oct 2015 13:39:00 -0000
+vti_syncwith_03bfe3c.netsolhost.com\:21/%2fwww/alpha:TX|13 Feb 2015 14:33:29 -0000
+vti_nexttolasttimemodified:TW|26 Jun 2015 15:23:00 -0000
+vti_cacheddtm:TX|13 Feb 2015 14:33:29 -0000
+vti_filesize:IR|13236
+vti_syncwith_192.185.10.191\:21/httpdocs/alpha:TX|13 Feb 2015 14:33:29 -0000
+vti_syncofs_192.185.10.191\:21/httpdocs/alpha:TW|18 Oct 2015 14:10:00 -0000
+vti_syncwith_localhost\\\\\\insp6400\\my web sites\\swa\\alpha///insp6400/my web sites/swa/alpha:TW|26 Jun 2015 15:23:00 -0000

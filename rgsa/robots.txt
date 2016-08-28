@@ -1,0 +1,9 @@
+User-agent: Googlebot
+Disallow: /webpageworkfiles/
+Disallow: /photo-album/
+
+User-agent: *
+Disallow: /webpageworkfiles/
+Disallow: /photo-album/
+
+Sitemap: http://www.rgsa.info.com/sitemap.xml

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- #BeginTemplate "../../_dwt/default-page.dwt" -->
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>SIV clinics and warning</title>
+<!-- #EndEditable -->
+
+<!-- #BeginEditable "description" -->
+<meta name="description" content="SIV, SIV clinics, getting killed, death, injuries, injury, warning, warnings, Lake Pueblo, Pueblo Reservoir">
+
+<!-- #EndEditable -->
+
+<!-- #BeginEditable "keywords" -->
+
+
+<style type="text/css">
+.auto-style1 {
+	font-family: Verdana;
+	color: #FF0000;
+}
+</style>
+
+
+<!-- #EndEditable -->
+
+<link rel="stylesheet" type="text/css" href="../../_styles/default.css">
+<link rel="stylesheet" type="text/css" href="../../_styles/default-dwt.css">
+<style type="text/css">
+</style>
+<base target="_self">
+</head>
+
+<body>
+<div id="masthead">
+	<img alt="launch at Valle de Bravo, Mexico" src="../../images/masthead/P1060597-150px-blur.jpg" width="150" height="113" class="imgftleft"><span class="imgftleft">
+	</span>
+	<img alt="powered paraglider launch at Gardiner Turf Grass farms" src="../../images/masthead/DSC03061-150px-blur.jpg" width="150" height="113" class="imgftright"><span class="imgftright">
+	</span>
+	<p class="southwest-airsports"><span class="text-1dot4em">S</span>OUTHWEST
+	<span class="text-1dot4em">A</span>IRSPORTS</p>
+	<p><span class="paragliding-training-centerCopy">paragliding training center</span></p>
+</div>	
+	
+<div id="mainmenu">	
+	<ul>
+		<li><a href="../../index.html">Home</a></li>
+		<li><a href="../../about-us/about-us.htm">About us</a></li>
+		<li><a href="../../ContactUs/contactus.htm">Contact</a></li>
+		<li><a href="../faqs-tips.htm">FAQs-Tips</a></li>
+		<li><a href="../../SiteInfo/SiteInfo.htm">Flying Site Info</a></li>
+		<li><a href="../../media/media.htm">Media Gallery</a></li>
+		<li><a href="../../ppgtechinfo/ppgtechinfo.htm">Paramotor Info</a></li>
+		<li><a href="../../eppdemoteam/epparademoteam.htm">PPG Demo Team</a></li>
+		<li><a href="../../training/Training.htm">Training</a></li>
+		<li><a href="../../weather/weather-intro/WeatherIntro.htm">Weather</a></li>
+	</ul>
+</div>
+
+<div id="mainbody">
+
+<!-- #BeginEditable "content" -->
+
+	<h1>SIV clinics</h1>
+	<p>by Had Robinson</p>
+	<p>I&nbsp; recommend that all pilots attend an SIV clinic periodically.&nbsp; A pilot needs to learn how to control his glider in various situations that might occur during flight.&nbsp; Among 
+	these are wing-tip folds, frontal collapses, and major asymmetric collapses.&nbsp; Pilots can practice wingovers, full stalls, extreme pitch and roll maneuvers, and reserve deployments at these 
+	clinics.&nbsp; In 
+	the event of a mishap, everything is safely done over the water, for the most part. </p>
+	<p>Pilots of all skill levels can participate, including P1's with just an 
+	hour or two of airtime.&nbsp; It is a modest investment for valuable training.</p>
+	<p>However, the dangers of SIV clinics can sometimes outweigh the benefits.&nbsp; The following can occur at clinics not run by the best instructors and crew:</p>
+	<ul>
+		<li>Drowning</li>
+		<li>Becoming cocooned in the glider and then falling, resulting in death.&nbsp; The water will not help.</li>
+		<li>A reserve deployment with the pilot drifting, out of control, into dangerous territory.</li>
+		<li>Getting towed into other pilots or objects.</li>
+		<li>Getting caught in hazardous weather.</li>
+		<li>Becoming badly frightened, enough so that you quit the sport.</li>
+		<li>Watching others get injured or killed.</li>
+	</ul>
+	<h2 class="auto-style1">WARNING: MOST SIV CLINICS IN THE U.S. ARE NOT HOSTED BY COMPETENT INSTRUCTORS WHO PUT PILOT SAFETY FIRST.&nbsp; THERE IS NO LEGAL CERTIFICATION OR QUALIFICATIONS REQUIRED OF THOSE WHO HOST 
+	THESE CLINICS.</h2>
+	<p>Because of this, pilots must thoroughly research the parties running the SIV.&nbsp; There have been needless deaths and accidents at too many clinics due to poor instruction and a lack of 
+	concern for safety.&nbsp; People would be amazed at the nationally known schools and instructors who have had deaths and injuries at their clinics.&nbsp; Why is this?&nbsp; I am sorry to say that 
+	these instructors and schools put profit before safety.&nbsp; I have witnessed this time after time.</p>
+	<p>Unfortunately, USHPA does not track complaints, deaths, and accidents that occur at SIV clinics.&nbsp; It is a tragedy that I hope will be remedied someday.&nbsp; Meanwhile, 
+	<span class="auto-style1">YOU ARE ON YOUR 
+	OWN</span>.&nbsp; It would be better for all if the Civil Aeronautics Board handled paragliding accidents the same way they handle it in general aviation.&nbsp; In this way, incompetent clinic hosts would be 
+	exposed and, hopefully, be put out of business.</p>
+	<p>Below is a photo of the scene of a student pilot who died at an SIV clinic in 2007 at the <a href="http://cpw.state.co.us/placestogo/parks/LakePueblo">Pueblo Reservoir</a> in Colorado.&nbsp; I 
+	was there as a student.&nbsp; The power line wires she fell out of are just to the right of the photo.</p>
+	<p>It was a needless death.&nbsp; The hosts of the clinic did not heed the over-development of a weather system just west of us, including the presence of virga and lightning.&nbsp; Before the 
+	accident, flightbabe1 (Marilyn) wondered why anybody was in the air when conditions looked so dangerous?&nbsp; (And she is not even a pilot.)&nbsp; A severe gust front was generated by the virga and caught two pilots 
+	who were in the air at the time.&nbsp; I saw everything.&nbsp; After the gust front blew through, I picked up one pilot who landed in rotor behind the dam at the lake.&nbsp; She had minor injuries.&nbsp; The other was blown into high-tension power lines east of the training area.&nbsp; After her glider got 
+	caught in the high-tension wires, it slipped off and she fell about 50 feet, the cause of her death (double hemothorax).</p>
+	<p>Her helmet (far left) and harness (resting on the left end of the glider) are visible.&nbsp; Her body is lying just on the other side of the glider and is not visible.&nbsp; The other injured 
+	pilot and I were late getting there because we did not know where the wind had blown the pilot so it took us a while to find her.&nbsp; We finally arrived shortly after the sheriff and EMS arrived 
+	(a picnicker had called in the accident).&nbsp; We took some photos.&nbsp; EMS pronounced her dead at the scene and we were waiting for the coroner's office to come pick up her body.&nbsp; This 
+	accident was the cause of the park being closed to future SIV clinics -- a loss for us all.</p>
+	<p><img alt="paraglider pilot who died at an SIV clinic in Colorado" height="960" src="IMG_3444_01.JPG" width="1280"></p>
+	<p>I have been to SIV clinics where people were scared out of the sport, injured, killed, and -- on more than one occasion -- where pilots nearly drowned.</p>
+	<p>I share this information so that those who are considering attending an SIV in the U.S. will be aware of the risks and dangers from an unregulated sport like ours and why it is so 
+	important to ask questions and find out who is running the clinic.&nbsp; It makes ZERO difference if the host is well known, a top ACRO pilot, or whatever.&nbsp; Does he care about safety?&nbsp; 
+	Does he value YOUR life over MONEY?</p>
+	<p>Most hosts of SIV clinics do not give a damn if you get hurt or killed.</p>
+	<p>If you are single and under 25, you might at least care about what your parents might experience if you have an accident or are killed.&nbsp; If you get all banged up, who is going to pay for your 
+	care?</p>
+	<p>It might be safest to get over to Europe for an SIV if you have any doubts about the operators of these events here in the United States.&nbsp; I know instructors in the U.S. who are very good and care about pilot safety but 
+	they do not host clinics in our region.</p>
+	<p>Than again, maybe I have just been consistently at the wrong SIVs, at the wrong times, run by the wrong people, and all of it during the wrong weather....</p>
+	<p>Please <a href="../../ContactUs/contactus.htm">contact us</a> for more information on SIV clinics and where you can 
+	take them.</p>
+	
+
+<!-- #EndEditable -->
+	
+<p><img alt="vulture" src="../../vulture%20bw%2017x25A.jpg" width="17" height="25"></p>
+
+</div>
+
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

@@ -1,0 +1,47 @@
+  /* CSS layout */
+body {
+	border: medium solid #9196AE;
+	border-radius: 20px;
+	margin: 2em auto 2em auto;
+	padding: 1em;
+	background-image: none;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	width: 850px;
+	background-color: #E5E5E5;
+	height: 725px;
+}
+#masthead {
+	width: 500px;
+	height: 90px;
+	position: relative;
+	padding: .5em;
+	margin: .5em;
+}
+
+#top_nav {
+}
+
+#container {
+	min-width: 600px;
+}
+
+#left_col {
+	padding: 1em;
+	border-color: #9196AE;
+	width: 200px;
+	float: left;
+	border-right-width: medium;
+	border-right-style: solid;
+	margin-right: 2em;
+}
+
+#page_content {
+	margin-left: 200px;
+}
+
+#footer {
+	margin: 1em auto 1em auto;
+	padding: .5em;
+	width: 590px;
+	height: 40px;
+}

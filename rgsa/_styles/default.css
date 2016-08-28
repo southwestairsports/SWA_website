@@ -1,0 +1,70 @@
+  /* CSS layout */
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #F1F1F5;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+h1 {
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: large;
+}
+h2 {
+	font-size: medium;
+}
+#mainbody {
+	padding: 1em;
+	background-color: #EFEFEF;
+	width: 1030px;
+	margin-top: .5em;
+	margin-right: auto;
+	margin-left: auto;
+}
+#masthead {
+	margin: 1em auto 1em auto;
+	padding: 0em;
+	width: 780px;
+	height: 140px;
+}
+#top_nav {
+	padding: 0em;
+	margin: 1em auto 1em auto;
+	list-style-type: none;
+	color: #000000;
+	font-size: .75em;
+	background-color: #AFC1C5;
+	width: 950px;
+	height: 50px;
+}
+#top_nav ul {
+	color: #000000;
+	margin: 0em auto 0em auto;
+	position: relative;
+	height: 30px;
+	top: 15px;
+	list-style-type: none;
+	width: 900px;
+}
+#top_nav li {
+	display: inline;
+}
+#top_nav a:link {
+	color: #000080;
+	padding-right: .5em;
+	padding-left: .5em;
+	text-decoration: none;}
+#top_nav a:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+#top_nav a:hover {
+	text-decoration: underline;
+}
+#articles {
+	padding: .5em;
+	width: 900px;
+	margin: 0em auto 0em auto;
+}
+.italics {
+	font-style: italic;
+}

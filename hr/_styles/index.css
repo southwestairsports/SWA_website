@@ -1,0 +1,119 @@
+#top-box {
+	padding: 5px;
+	border: 3px ridge #FFFFFF;
+	margin: 10px auto 10px auto;
+	font-style: italic;
+	font-size: 10pt;
+	width: 95%;
+}
+#left-top-box {
+	padding: 5px;
+	margin: 5px;
+	border: 2px ridge #FFFFFF;
+	width: 20%;
+	float: left;
+	font-size: small;
+	height: 240px;
+	position: relative;
+}
+#center-top-box {
+	padding: 5px;
+	margin: 10px auto 10px auto;
+	width: 50%;
+	position: relative;
+	text-align: center;
+}
+#right-top-box {
+	border: 3px ridge #FFFFFF;
+	padding: 5px;
+	margin: 5px;
+	width: 20%;
+	float: right;
+	font-style: italic;
+	text-align: center;
+	font-size: 12px;
+	height: 240px;
+	position: relative;
+}
+#left-bottom-box {
+	padding: 5px;
+	margin: 5px;
+	border: 3px ridge #FFFFFF;
+	width: 20%;
+	float: left;
+	clear: right;
+	font-size: 12px;
+	position: relative;
+}
+#right-bottom-box {
+	padding: 5px;
+	margin: 5px;
+	border: 3px ridge #FFFFFF;
+	width: 20%;
+	float: right;
+	font-size: 12px;
+	position: relative;
+}
+#center-bottom-box {
+	padding: 15px 5px 15px 5px;
+	margin: 10px auto 10px auto;
+	position: relative;
+	width: 50%;
+}
+#bottom-box {
+	margin: 25px auto 25px auto;
+	font-size: 12px;
+	width: 80%;
+}
+.constantia {
+	font-family: Constantia;
+	font-size: x-large;
+}
+.font-constantia-xx-large {
+	font-family: Constantia;
+	font-size: xx-large;
+}
+.italics {
+	font-style: italic;
+}
+.font-medium {
+	font-size: medium;
+}
+.GreekLetters {
+	font-weight: normal;
+	font-size: xx-large;
+}
+.strong {
+	font-weight: bold;
+}
+#Umar {
+	font-size: 12px;
+	padding-left: 50px;
+	padding-right: 50px;
+	text-align: center;
+}
+.font-size-14pt {
+	font-size: 14pt;
+}
+#beheader {
+	padding-right: 50px;
+	padding-left: 50px;
+	text-align: center;
+}
+#constan {
+	text-align: center;
+	padding-right: 50px;
+	padding-left: 50px;
+	font-size: 10px;
+}
+#schneider {
+	text-align: center;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+#container {
+	margin: 50px auto 50px auto;
+	padding: 10px;
+	background-color: #E6E6FF;
+	width: 1280px;
+}

@@ -1,0 +1,15 @@
+vti_encoding:SR|utf8-nl
+vti_author:SR|INSP6400\\had
+vti_modifiedby:SR|LATE6420\\had
+vti_timelastmodified:TW|27 Feb 2015 18:42:00 -0000
+vti_timecreated:TR|19 Feb 2015 06:01:43 -0000
+vti_extenderversion:SR|12.0.0.0
+vti_backlinkinfo:VX|
+vti_syncwith_03bfe3c.netsolhost.com\:21/%2fwww/rgsa:TW|27 Feb 2015 13:35:57 -0000
+vti_syncofs_03bfe3c.netsolhost.com\:21/%2fwww/rgsa:TW|27 Feb 2015 18:42:00 -0000
+vti_nexttolasttimemodified:TW|27 Feb 2015 18:42:00 -0000
+vti_cacheddtm:TX|27 Feb 2015 13:35:57 -0000
+vti_filesize:IR|1550
+vti_syncwith_192.185.10.191\:21/httpdocs/rgsa:TX|27 Feb 2015 13:35:57 -0000
+vti_syncofs_192.185.10.191\:21/httpdocs/rgsa:TW|25 Dec 2015 17:17:00 -0000
+vti_syncwith_localhost\\\\\\insp6400\\my web sites\\swa\\rgsa///insp6400/my web sites/swa/rgsa:TW|27 Feb 2015 18:42:00 -0000

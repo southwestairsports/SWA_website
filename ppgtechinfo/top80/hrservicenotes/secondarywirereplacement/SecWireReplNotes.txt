@@ -1,0 +1,18 @@
+﻿Secondary wire replacement details
+
+Spark plug wire:
+	Accel 7541K 5mm universal spiral core spark plug wires x 8
+	purchased from Maxx-Performance products $24
+	cut overall length 14"
+	strip insulation on end back 9mm
+	flatten exposed spiral core with needle nose pliers
+	
+10mm X 1.2M HST with adhesive 13/32" ID
+	Digikey part# A115923
+	cut to 1 1/8"
+	
+3/32" HST
+	Harbor Freight asst. #67524 (should order from Digikey from now on)
+	cut to 1/4"
+
+					

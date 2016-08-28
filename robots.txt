@@ -1,0 +1,23 @@
+User-agent: Googlebot
+Disallow: /customerrors/
+Disallow: /images/
+Disallow: /alpha/
+Disallow: /hr/
+Disallow: /hs/
+Disallow: /rgsa
+Disallow: /media/photos-pages-from-Frontpage/
+Disallow: /SiteInfo/S.1024/
+Disallow: /s.1689/
+
+User-agent: *
+Disallow: /customerrors/
+Disallow: /images/
+Disallow: /alpha/
+Disallow: /hr/
+Disallow: /hs/
+Disallow: /rgsa
+Disallow: /media/photos-pages-from-Frontpage/
+Disallow: /SiteInfo/S.1024/
+Disallow: /s.1689/
+
+Sitemap: http://www.southwestairsports.com/sitemap.xml
